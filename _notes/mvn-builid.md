@@ -18,3 +18,8 @@ triggle a goale
 ```
   mvn dependency:analyze
 ```
+
+## Plugins
+- deploy plugin: deploy the artifact that is installed in local .m2 repo to the central repository
+
+- release plugin: relase the artifact to Maven Central
